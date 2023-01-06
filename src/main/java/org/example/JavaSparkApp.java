@@ -42,7 +42,7 @@ public class JavaSparkApp {
         kafkaParams.put("auto.offset.reset", "earliest");
         kafkaParams.put("enable.auto.commit", false);
 
-        Collection<String> topics = Arrays.asList("Ndms"); //topic name if multiple then all seperated by comma
+        Collection<String> topics = Arrays.asList("TopicName"); //topic name if multiple then all seperated by comma
 
 
 
