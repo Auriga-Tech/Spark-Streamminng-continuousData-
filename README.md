@@ -1,1 +1,1 @@
-# Spark-StreamminngOfNdmsData
+# Spark-StreamminngOfContinousData
